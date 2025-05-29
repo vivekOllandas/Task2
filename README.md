@@ -5,7 +5,7 @@ This project presents an interactive **Sales Dashboard** built in **Power BI**, 
 
 ## 🚀 Features
 
-- **Total Sales** overview using KPI cards.
+- **Total Sales**
 - **Yearly Sales Trend**: Sum of Sales by Year.
 - **Sales by Shipping Mode**: Breakdown of sales by different shipping methods.
 - **Sales Over Time**: Sum of Sales by Order Date.
